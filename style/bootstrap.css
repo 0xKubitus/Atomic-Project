@@ -11247,3 +11247,7 @@ th {
 .gold-footer-text {
   color: #F0AD4E;
 }
+
+.name, .title {
+  font-family: var(--bs-body-font-family);
+}
