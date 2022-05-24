@@ -573,6 +573,12 @@ progress {
   list-style: none;
 }
 
+.list-unstyled-white {
+  color: white;
+  padding-left: 0;
+  list-style: none;
+}
+
 .list-inline {
   padding-left: 0;
   list-style: none;
@@ -11232,4 +11238,12 @@ th {
 .navcontainer-right {
   display: flex;
   justify-content: flex-end;
+}
+
+.page-footer {
+  color: silver;
+}
+
+.gold-footer-text {
+  color: #F0AD4E;
 }
